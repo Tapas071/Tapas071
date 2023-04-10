@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapas Mondal</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Aspiring Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapas071&label=Profile%20views&color=0e75b6&style=flat" alt="tapas071" /> </p>
 
