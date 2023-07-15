@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapas071" alt="tapas071" /></a> </p>
 
-- 🔭 I’m currently on **Prefinal Year ,BE.**
+- 🔭 I’m currently on **Final Year ,BE.**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Next Js**
 
 - 📫 How to reach me **tapas710mondal@gmail.com**
 
