@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapas071&label=Profile%20views&color=0e75b6&style=flat" alt="tapas071" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tapas071" alt="tapas071" /></a> </p>
+- 👨🏻‍💻 I'm working as a Software Developer (Fullstack) at Artelus
 
 - 🔭 I've done Bachelor of Engineering from Jadavpur University in 2024.**
-
-- 🌱 I’m currently learning **Next Js**
+- 
+- 🌱 I’m currently learning **Kafka, RabbitMQ**
 
 - 📫 How to reach me **tapas710mondal@gmail.com**
 
