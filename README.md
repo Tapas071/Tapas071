@@ -7,9 +7,9 @@
 - 👨🏻‍💻 I'm working as a Software Developer (Fullstack) at Artelus
 
 - 🔭 I've done Bachelor of Engineering from Jadavpur University in 2024.**
-- 
-- 🌱 I’m currently learning **Kafka, RabbitMQ**
-
+  
+- 🌱 I’m currently learning **Kafka, Kubernetes **
+  
 - 📫 How to reach me **tapas710mondal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
