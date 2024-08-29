@@ -18,7 +18,7 @@
 
 <div style="max-width: 600px; margin: 0 auto;">
 
-- 👨🏻‍💻 I'm working as a Fullstack Developerat Artelus
+- 👨🏻‍💻 I'm working as a Fullstack Developer at Artelus
   
 - 🔭 I've done Bachelor of Engineering from Jadavpur University in 2024.
   
