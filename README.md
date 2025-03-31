@@ -24,7 +24,7 @@
   
 - 🌱 I’m currently learning *`Kafka, Kubernetes`*
   
-- 📫 How to reach me **tapas710mondal@gmail.com**
+- 📫 How to reach me **tapas710work@gmail.com**
 </div>
 <br>
 <hr>
