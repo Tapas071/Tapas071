@@ -18,9 +18,9 @@
 
 <div style="max-width: 600px; margin: 0 auto;">
 
-- 👨🏻‍💻 I'm working as a Fullstack Developer at Artelus
+- 👨🏻‍💻 I'm working as a full-stack developer at Kofuku Technologies
   
-- 🔭 I've done Bachelor of Engineering from Jadavpur University in 2024.
+- 🔭 I've done a Bachelor of Engineering from Jadavpur University in 2024.
   
 - 🌱 I’m currently learning *`Kafka, Kubernetes`*
   
