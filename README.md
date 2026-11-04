@@ -11,20 +11,20 @@
 💻 Code | 🧳 Travel | 📜 Read | 💚 Sleep
 <br />
 
- **`Let's your code speak for you`**
+ **`Let your code speak for you`**
 
 <br />
 
 
 <div style="max-width: 600px; margin: 0 auto;">
 
-- 👨🏻‍💻 I'm working as a full-stack developer at Kofuku Technologies
+- 👨🏻‍💻 I'm working as an Associate Software Engineer at PricewaterhouseCoopers (PwC)
   
-- 🔭 I've done a Bachelor of Engineering from Jadavpur University in 2024.
+- 🔭 I earned a Bachelor of Engineering from Jadavpur University in 2024.
   
 - 🌱 I’m currently learning *`Kafka, Kubernetes`*
   
-- 📫 How to reach me **tapas710work@gmail.com**
+- 📫 How to reach me: **tapas710work@gmail.com**
 </div>
 <br>
 <hr>
@@ -71,7 +71,7 @@
    />
 </div>
 
-#### Dev-ops
+#### DevOps
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    
